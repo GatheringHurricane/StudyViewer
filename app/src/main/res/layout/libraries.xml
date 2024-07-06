@@ -12,7 +12,7 @@
         android:id="@+id/book"
         android:layout_width="100dp"
         android:layout_height="320dp"
-        android:background="@drawable/book_button"
+        android:background="@drawable/start"
         android:contentDescription="시작"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
